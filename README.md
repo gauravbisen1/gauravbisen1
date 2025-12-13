@@ -1,6 +1,8 @@
 ![logo](https://github.com/gauravbisen1/gauravbisen1/blob/main/poster.png)
 # 💫 About Me:
-I’m currently pursuing B.Tech in Information Technology from IPS Academy, Indore. I have a strong interest in full-stack web development and enjoy working on real-world projects to sharpen my skills.
+Hi there! I'm Gaurav 👋
+I'm an IT undergrad at IPS Academy, Indore, bridging the gap between backend logic and frontend magic.
+
 
 
 ## 🌐 Socials:
