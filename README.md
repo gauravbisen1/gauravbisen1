@@ -1,8 +1,12 @@
 ![logo](https://github.com/gauravbisen1/gauravbisen1/blob/main/poster.png)
 # 💫 About Me:
-Hi there! I'm Gaurav 👋
-I'm an IT undergrad at IPS Academy, Indore, bridging the gap between backend logic and frontend magic.
+ bridging the gap between backend logic and frontend magic.
 
+### Hi there! I'm Gaurav! 👋
+
+I'm an IT undergrad at **IPS Academy, Indore**, passionate about **bridging the gap between backend logic and frontend magic**.
+
+As a Full Stack Developer, I don't just write code—I build solutions. My expertise lies in the **MERN Stack** and **Java**, where I focus on creating scalable, responsive, and efficient web applications. 
 
 
 ## 🌐 Socials:
