@@ -1,6 +1,5 @@
 ![logo](https://github.com/gauravbisen1/gauravbisen1/blob/main/poster.png)
 # 💫 About Me:
- bridging the gap between backend logic and frontend magic.
 
 ### Hi there! I'm Gaurav! 👋
 
